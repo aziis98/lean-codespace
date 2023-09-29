@@ -18,4 +18,4 @@ Per provare che tutto funzioni andare in `./Main.lean` e verificare che si apra 
 
 - https://lean-lang.org/lean4/doc/
 
-- Progetto ricavato dalla repo: <https://github.com/leanprover/lean4-samples>
+- <https://github.com/leanprover/lean4-samples> (da cui è stato ricavato il codice per questa repo)
