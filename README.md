@@ -10,6 +10,8 @@ GitHub già offre 120h gratuite al mese di utilizzo di CodeSpace, inoltre [Unipi
 
 **Attenzione!** Per non sprecare subito tutte le ore di utilizzo quando si ha finito di utilizzare il CodeSpace ricordarsi di spegnerlo dalla pagina <https://github.com/codespaces>, dalla lista di CodeSpaces se c'è scritto ancora "Active" premere sui tre puntini e fare "Stop Container".
 
+Per provare che tutto funzioni andare in `./Main.lean` e verificare che si apra il pannello laterale e che mettendo il mouse sopra `#eval` venga mostrata la stringa `Hello, World!`.
+
 ## Siti Utili
 
 - https://lean-lang.org/theorem_proving_in_lean4/
