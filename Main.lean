@@ -1,6 +1,6 @@
 import Prova 
 
 def main : IO Unit :=
-  IO.println s!"Hello, {hello}!"
+  IO.println "Hello, {hello}!"
 
 #eval main
