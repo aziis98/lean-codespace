@@ -14,5 +14,9 @@
 				"leanprover.lean4"
 			]
 		}
-	}
+	},
+	"postCreateCommand": [
+		"lake update",
+		"lake exe cache get"
+	]
 }
