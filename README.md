@@ -1,6 +1,6 @@
 # Lean Codespace
 
-Questa repo contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpaces provarlo senza dover installare nulla in locale.
+Questa repo contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpaces (ambiente di sviluppo nel cloud dal browser) provarlo senza dover installare nulla in locale.
 
 ## GitHub / GitHub Pro con Unipi
 
