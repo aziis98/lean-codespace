@@ -6,7 +6,7 @@ Questa repo contiene un semplice progetto in Lean che può essere lanciato con u
 
 GitHub già offre 120h gratuite al mese di utilizzo di CodeSpace, inoltre [Unipi con GitHub Pro](https://www.dm.unipi.it/github-pro/) ci fa arrivare a 180h gratuite di utilizzo al mese.  
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&hide_repo_select=true&ref=main&repo=698191991&machine=standardLinux32gb&location=WestEurope)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&hide_repo_select=true&ref=main&repo=698191991&machine=basicLinux32gb&location=WestEurope)
 
 > :warning: **Achtung** :warning: 
 > 
