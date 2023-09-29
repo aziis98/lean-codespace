@@ -1,6 +1,6 @@
 # Lean Codespace
 
-Questa repo contiene un semplice progetto in Lean che può essere lanciato con un click su GitHub CodeSpace provarlo senza dover installare nulla in locale.
+Questa repo contiene un semplice progetto in Lean con Mathlib che può essere lanciato con un click su GitHub CodeSpace provarlo senza dover installare nulla in locale.
 
 ## GitHub / GitHub Pro con Unipi
 
@@ -10,11 +10,11 @@ GitHub già offre 120h gratuite al mese di utilizzo di CodeSpace, inoltre [Unipi
 
 > :warning: **Achtung** :warning: 
 > 
-> - Le 120h o 180h sono "core hours" quindi con la macchina da 2 core sono complessivamente 60h o 90h effettive al mese (le opzioni sono 2 o 4 core ma già quella da 2 dovrebbe bastare). Essenzialmente conviene usare con parsimonia le ore di questi GitHub CodeSpaces.
+> - Le 120h o 180h sono "core hours" quindi con la macchina da 2 core sono complessivamente 60h o 90h effettive al mese (per far compilare tutto più velocemnte all'inizio conviene usare quella da 4 core ma poi si può passare a quella da 2). Essenzialmente conviene usare con parsimonia le ore di questi GitHub CodeSpaces.
 > 
 > - In particolare quando si ha finito di utilizzare il codespace ricordarsi di spegnerlo dalla pagina <https://github.com/codespaces>, dalla lista di codespaces se c'è scritto ancora **"Active"** premere sui tre puntini e fare **"Stop Container"**.
 
-Per provare che tutto funzioni andare in `./Main.lean` e verificare che si apra il pannello laterale e che mettendo il mouse sopra `#eval` venga mostrata la stringa `Hello, World!`.
+Per provare che tutto funzioni andare in `./Prova/MathlibExample.lean` e verificare che si apra il pannello laterale e che mettendo il mouse sopra `#check TopologicalSpace` venga mostrata la stringa `TopologicalSpace.{u} (α : Type u) : Type u` (all'inizio vengono compilate molte cose quindi potrebbe comparire per qualche minuto un underline blue sotto il primo import)
 
 ## Siti Utili
 
