@@ -13,6 +13,12 @@
 			"extensions": [
 				"leanprover.lean4"
 			]
+		},
+		"codespaces": {
+			"openFiles": [
+				"Prova/MathlibExample.lean",
+				"Main.lean"
+			]
 		}
 	},
 	"postCreateCommand": [
